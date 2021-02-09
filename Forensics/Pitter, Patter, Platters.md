@@ -1,3 +1,6 @@
+# Question
+Can you break into this super secure portal? https://jupiter.challenges.picoctf.org/problem/56816/ (link) or http://jupiter.challenges.picoctf.org:56816
+
 # Solution
 So for this challenge were first introduced with a sd1 file, so I decided to use an sd1 file viewer such as https://filext.com/file-extension/SD1, and through It showed me all the text I need, than I tried searching for picoCTF, nothing came up, so I searched for a curly bracket and this came up:
 
